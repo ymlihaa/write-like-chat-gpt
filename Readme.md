@@ -1,3 +1,6 @@
+<img width="606" height="138" alt="Ekran Resmi 2025-09-13 15 44 27" src="https://github.com/user-attachments/assets/4c266baf-899a-4945-9925-8b9a499d47e0" />
+
+
 <div class="markdown prose w-full break-words dark:prose-invert dark"><h1>WriteLikeChatGPT</h1><p>A React component that animates text to make it appear as if it's being written by ChatGPT.</p>
 <p align="center"> 
 
